@@ -1,8 +1,6 @@
 # Hacker-USB
 ## USB pen drive as like : USB Rubber Ducky
 
-Here’s a draft for your GitHub `README.md` page tailored for a USB pen drive autorun script intended for penetration testing and ethical hacking:
-
 ---
 
 # USB Pen Drive AutoRun Script for Penetration Testing and Ethical Hacking
