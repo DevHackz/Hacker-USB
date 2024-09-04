@@ -1,6 +1,7 @@
 # Hacker-USB
-![hacker-usb](https://github.com/user-attachments/assets/32e6c4d1-5fd4-424a-9b00-b30cdd23fa0d)
 
+
+![Hacker-USB](https://github.com/user-attachments/assets/39250907-8f81-4d89-b182-1f6f36148a8c)
 
 ## USB pen drive as like : USB Rubber Ducky
 
